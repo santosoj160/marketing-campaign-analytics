@@ -12,7 +12,7 @@ Proyek ini mengevaluasi efisiensi dan efektivitas kampanye iklan digital (*Faceb
 ---
 
 ## 🔗 Live Interactive Dashboard
-> 🖥️ **[Klik di Sini untuk Mengakses Interactive Tableau Dashboard](PASTE_LINK_TABLEAU_PUBLIC_ANDA_DI_SINI)**
+> 🖥️ **[Klik di Sini untuk Mengakses Interactive Tableau Dashboard](https://public.tableau.com/app/profile/joko.santoso6827/viz/DIGITALMARKETINGCAMPAIGN/DIGITALMARKETINGCAMPAIGN)**
 
 ---
 
